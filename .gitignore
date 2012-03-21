@@ -4,4 +4,8 @@ log/*.log
 tmp/
 .sass-cache/
 
+# SimpleCov files
+coverage
+
+# Eclipse project file
 .project
